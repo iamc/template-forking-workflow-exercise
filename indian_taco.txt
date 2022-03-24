@@ -1,8 +1,0 @@
-Let's add some spices
-
-- Freshly made Paneer
-- Mango chutnet
-- curry of choice
-- Tortilla of choice, warmed in a dry pan
-
-closes #1
